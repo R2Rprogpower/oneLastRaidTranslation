@@ -2391,3 +2391,5 @@ msgstr "Изменить язык игры."
 msgctxt "ST_TextsToLocalize,0000000360"
 msgid "Translators"
 msgstr "Переводчики"
+
+@todo: fix capital letters.
