@@ -297,7 +297,7 @@ msgstr "Область зачищено"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000040"
 msgid "Area Increase"
-msgstr "Збільшити області"
+msgstr "Збільшити область"
 
 #. Key:	0000000041
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -1200,7 +1200,7 @@ msgstr "Імунітет"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000170"
 msgid "In Windowed mode you can interact with other windows more easily, and drag edges of the window to set the size. In Windowed Fullscreen mode you can easily switch between applications. In Fullscreen mode you cannot interact with other windows as easily, but the game will run slightly faster."
-msgstr "У Віконному Режимі ви можете легше взаємодіяти з іншими вікнами та змінювати розмір, перетягуючи краї. У режимі «Віконний Повноекранний» зручно перемикатися між застосунками. У Повноекранному Режимі взаємодія з іншими вікнами ускладнена, зате гра працює трохи швидше."
+msgstr "У Віконному Режимі ви можете легше взаємодіяти з іншими вікнами та змінювати розмір, перетягуючи краї. У режимі «Повноекранний у Вікні» зручно перемикатися між застосунками. У Повноекранному Режимі взаємодія з іншими вікнами ускладнена, зате гра працює трохи швидше."
 
 #. Key:	0000000171
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -1466,7 +1466,7 @@ msgstr "Музика та звук: Jannik Schmidt"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000208"
 msgid "Mythic"
-msgstr "Міфічні"
+msgstr "Міфічний"
 
 #. Key:	0000000209
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -1494,7 +1494,7 @@ msgstr "Новий Рейд"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000212"
 msgid "Normal"
-msgstr "Звичайні"
+msgstr "Звичайний"
 
 #. Key:	0000000213
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -1746,7 +1746,7 @@ msgstr "Потужний Удар Щитом"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000248"
 msgid "Shield Throw"
-msgstr "Кидок Щитом"
+msgstr "Жбурляння щита"
 
 #. Key:	0000000249
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2026,7 +2026,7 @@ msgstr "Чим вищий показник, тим швидше ти рухає�
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000288"
 msgid "This feature only works if \"Window Mode\" is set to \"Fullscreen\"."
-msgstr "Ця функція працює лише, якщо «Режим вікна» встановлено на «Повноекранний»."
+msgstr "Ця функція працює лише, якщо «Режим Вікна» встановлено на «Повноекранний»."
 
 #. Key:	0000000289
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2040,7 +2040,7 @@ msgstr "Це впливає лише на кадри у грі. У меню ча
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000290"
 msgid "Throw your shield to damage and stun enemies"
-msgstr "Кинь щит, щоб завдати шкоди й оглушити ворогів"
+msgstr "Кинь щит, щоб завдати Шкоди й оглушити Ворогів"
 
 #. Key:	0000000291
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2208,7 +2208,7 @@ msgstr "Візуальне Оформлення та Ґеймдизайн — А
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000314"
 msgid "When the \"Window Mode\" is set to \"Windowed Fullscreen, the resolution must match the native desktop resolution.\" "
-msgstr ""
+msgstr "Коли «Режим вікна» встановлено на «Повноекранний у Вікні», роздільна здатність має відповідати рідній роздільній здатності робочого столу."
 
 #. Key:	0000000315
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2306,21 +2306,21 @@ msgstr "Дерев'яний Круглий Щит"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000328"
 msgid "YOU DIED\r\n...good thing you were dead already"
-msgstr ""
+msgstr "ВИ ЗАГИНУЛИ\r\n…добре, що ви й так був мертвими"
 
 #. Key:	0000000329
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000329"
 msgid "to cycle slots"
-msgstr "щоб перемкнути"
+msgstr "Щоб перемкнути"
 
 #. Key:	0000000330
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000330"
 msgid "Hold to start swapping"
-msgstr ""
+msgstr "Затисни, щоб почати заміняти"
 
 #. Key:	0000000331
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2544,26 +2544,26 @@ msgstr "Набір"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000362"
 msgid "Choose your preferred layout"
-msgstr ""
+msgstr "Оберіть бажану розкладку"
 
 #. Key:	0000000363
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000363"
 msgid "Keyboard layout"
-msgstr ""
+msgstr "Розкладка клавіш"
 
 #. Key:	0000000364
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000364"
 msgid "Layout"
-msgstr ""
+msgstr "Розкладка"
 
 #. Key:	0000000365
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000365"
 msgid "Thank you for playing our demo! \r\n\r\nHeroic and additional content is available in the full release of the game :)"
-msgstr ""
+msgstr "Дякуємо, що зіграли демоверсію!\r\n\r\nГероїчний та додатковий контент доступні в повній версії нашої гри :)"
 

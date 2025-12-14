@@ -514,7 +514,7 @@ msgstr "Но в следующем раунде ваша Область дейс
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000071"
 msgid "But your Cooldown Reduction is reduced by 15% next round"
-msgstr "Но в следующем раунде ваше снижение перезарядки будет на 15% меньше"
+msgstr "Но в следующем раунде ваше Снижение Перезарядки будет на 15% меньше"
 
 #. Key:	0000000072
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -843,7 +843,7 @@ msgstr "Отключить Режим Удаления"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000118"
 msgid "Display Resolution determines the size of the window in Windowed mode. In Fullscreen mode, Display Resolution determines the graphics card output resolution, which can result in black bars depending on the monitor and graphics card. Display Resolution is inactive in Windowed Fullscreen mode."
-msgstr "Разрешение экрана определяет размер окна в оконном режиме. В полноэкранном режиме оно задает выходное разрешение видеокарты, что в зависимости от монитора и видеокарты может приводить к появлению черных полос. В режиме оконного полноэкрана параметр разрешения экрана не используется."
+msgstr "Разрешение экрана определяет размер окна в оконном режиме. В полноэкранном режиме оно задает выходное разрешение видеокарты, что в зависимости от монитора и видеокарты может приводить к появлению черных полос. В режиме «Оконный во Весь Экран» параметр разрешения экрана не используется."
 
 #. Key:	0000000119
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -934,7 +934,7 @@ msgstr "Включить Режим Удаления"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000131"
 msgid "Epic"
-msgstr "Эпический"
+msgstr "Эпические"
 
 #. Key:	0000000132
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -1375,7 +1375,7 @@ msgstr "Длинный Меч"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000195"
 msgid "Low"
-msgstr "Низкий"
+msgstr "Низкие"
 
 #. Key:	0000000196
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -1466,7 +1466,7 @@ msgstr "Музыка и Звук: Янник Шмидт"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000208"
 msgid "Mythic"
-msgstr "Мифические"
+msgstr "Мифический"
 
 #. Key:	0000000209
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2026,7 +2026,7 @@ msgstr "Чем выше значение, тем быстрее вы движе�
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000288"
 msgid "This feature only works if \"Window Mode\" is set to \"Fullscreen\"."
-msgstr ""
+msgstr "Эта функция работает только при «Режим Окна» «Полный Экран»."
 
 #. Key:	0000000289
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2208,7 +2208,7 @@ msgstr "Визуальное Оформление и Геймдизайн: Ан�
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000314"
 msgid "When the \"Window Mode\" is set to \"Windowed Fullscreen, the resolution must match the native desktop resolution.\" "
-msgstr ""
+msgstr "Когда параметр «Режим Окна» установлен в значение «Оконный во Весь Экран», разрешение должно совпадать с нативным разрешением рабочего стола."
 
 #. Key:	0000000315
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2306,7 +2306,7 @@ msgstr "Деревянный Круглый Щит"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000328"
 msgid "YOU DIED\r\n...good thing you were dead already"
-msgstr ""
+msgstr "ВЫ ПОГИБИЛ\r\n...хорошо, что вы и так уже были мертвы"
 
 #. Key:	0000000329
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2320,7 +2320,7 @@ msgstr "Для переключения"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000330"
 msgid "Hold to start swapping"
-msgstr "Зажмите для начала обмена"
+msgstr "Зажмите что начать замену"
 
 #. Key:	0000000331
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
@@ -2544,26 +2544,26 @@ msgstr "Сет"
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000362"
 msgid "Choose your preferred layout"
-msgstr ""
+msgstr "Выберите подходящую раскладку"
 
 #. Key:	0000000363
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000363"
 msgid "Keyboard layout"
-msgstr ""
+msgstr "Раскладка клавишь"
 
 #. Key:	0000000364
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000364"
 msgid "Layout"
-msgstr ""
+msgstr "Раскладка"
 
 #. Key:	0000000365
 #. SourceLocation:	/Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 #: /Game/Ui/Localization/ST_TextsToLocalize.ST_TextsToLocalize
 msgctxt "ST_TextsToLocalize,0000000365"
 msgid "Thank you for playing our demo! \r\n\r\nHeroic and additional content is available in the full release of the game :)"
-msgstr ""
+msgstr "Спасибо, что сыграли в демоверсию!\r\n\r\nГероический и дополнительный контент доступен в полной версии нашей игры :)"
 
